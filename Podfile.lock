@@ -1,0 +1,64 @@
+PODS:
+  - BMPlayer (1.2.1):
+    - BMPlayer/Full (= 1.2.1)
+  - BMPlayer/Core (1.2.1)
+  - BMPlayer/Full (1.2.1):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 4.6.1)
+    - SnapKit (~> 4.2.0)
+  - BSGridCollectionViewLayout (1.2.5)
+  - BSImagePicker (2.10.3):
+    - BSGridCollectionViewLayout (= 1.2.5)
+    - BSImageView (= 1.0.3)
+  - BSImageView (1.0.3)
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - GCCalendar (2.5.0)
+  - IQKeyboardManagerSwift (6.5.5)
+  - LGButton (1.1.6)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - Position (0.7.1)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - BMPlayer (~> 1.2.0)
+  - BSImagePicker (~> 2.8)
+  - Charts (~> 3.2.2)
+  - GCCalendar
+  - IQKeyboardManagerSwift
+  - LGButton
+  - Position (~> 0.7.0)
+
+SPEC REPOS:
+  trunk:
+    - BMPlayer
+    - BSGridCollectionViewLayout
+    - BSImagePicker
+    - BSImageView
+    - Charts
+    - GCCalendar
+    - IQKeyboardManagerSwift
+    - LGButton
+    - NVActivityIndicatorView
+    - Position
+    - SnapKit
+
+SPEC CHECKSUMS:
+  BMPlayer: ea12f9d82e37f968dea2078b5e58e356ee4439d8
+  BSGridCollectionViewLayout: 333dcb457a5a3bdd9212607ab5756553dcfe06cb
+  BSImagePicker: 07404254f2fcdaf5a2eb403c0f8c337267ce8738
+  BSImageView: a149459433a2687157d034c78e059d30ac7f2544
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  GCCalendar: 88978ad35e25e26725dcb9372fc3b091362d78eb
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  LGButton: 9f0a7f9d3030e3f504108342f6b66d64a429371b
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  Position: e60213a31dd920abe9ea375020d20c9a5eee3cc5
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 31c622ce6b5a7ba27c212f62d66b74352cbeb2f0
+
+COCOAPODS: 1.9.3
